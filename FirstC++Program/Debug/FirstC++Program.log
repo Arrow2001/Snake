@@ -1,2 +1,3 @@
-﻿  main.cpp
-  FirstC++Program.vcxproj -> C:\Users\Iain\Desktop\FirstC++Program\Debug\FirstC++Program.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (FirstC++Program.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  FirstC++Program.vcxproj -> C:\Users\Iain\Desktop\FirstC++Program\Debug\Snake.exe
